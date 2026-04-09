@@ -20,8 +20,6 @@
 
 ## 📸 Скриншот
 ![](Screenshots/screenshot.png)
-### Главное окно
-![Главное окно](Screenshots/main_window.png)
 
 ## 🚀 Быстрый старт
 
