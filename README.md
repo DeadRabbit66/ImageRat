@@ -19,7 +19,7 @@
 - 🔄 **Автоконвертация** — JPEG → PNG автоматически
 
 ## 📸 Скриншот
-![](Screenshots/screenshot.png)
+![](ImageRat/Screenshots/screenshot.png)
 
 ## 🚀 Быстрый старт
 
