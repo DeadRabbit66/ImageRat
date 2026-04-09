@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ImageRat/1.0.0": {
+        "dependencies": {
+          "ReedSolomon": "2.0.0",
+          "ReedSolomon.NET": "1.2.0"
+        },
+        "runtime": {
+          "ImageRat.dll": {}
+        }
+      },
+      "ReedSolomon/2.0.0": {
+        "runtime": {
+          "lib/net10.0/ReedSolomon.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "ReedSolomon.NET/1.2.0": {
+        "runtime": {
+          "lib/netstandard2.1/ReedSolomon.NET.dll": {
+            "assemblyVersion": "1.2.0.0",
+            "fileVersion": "1.2.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageRat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReedSolomon/2.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kksCm4owVKl+WvK1XEi8MsNzG0fpEZ5LcYLP4PlJVwisybjUbp60z/aXOl+6gKdETAoDI1X/Ngcmo0XHg8GGUA==",
+      "path": "reedsolomon/2.0.0",
+      "hashPath": "reedsolomon.2.0.0.nupkg.sha512"
+    },
+    "ReedSolomon.NET/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rO0Avr5aWlN6fXot8SQwXq57PXkli6BzZd5eSDBMs8fkb1PhDYQwsUYaZ4Ylf0N/FR8x6MBnop1D5E3meE7gRw==",
+      "path": "reedsolomon.net/1.2.0",
+      "hashPath": "reedsolomon.net.1.2.0.nupkg.sha512"
+    }
+  }
+}
